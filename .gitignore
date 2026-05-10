@@ -3,6 +3,10 @@
 
 # Log file
 *.log
+*.DS_STORE
+
+# intellije idea
+.idea
 
 # BlueJ files
 *.ctxt
